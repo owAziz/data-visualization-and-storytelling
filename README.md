@@ -11,6 +11,7 @@ SDAIA Academy GitHub: https://github.com/SDAIAAcademy
 
 ## What we did
 
+
 This repository holds a seven-slide executive briefing on where to direct the next SAR 40 million so lagging regions move toward the 65% digital-adoption target.
 
 National adoption is already past the target: 66.2% in December 2025, and above 65% since August 2025. Eight of 13 regions are still below 65%. Four of those are 2 to 4 points short: Najran, Northern Borders, Al-Baha, and Jazan. The other four are under a point away.
